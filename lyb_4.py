@@ -47,4 +47,3 @@ wc.recolor(color_func=image_colors)
 
 # 保存到文件
 wc.to_file('4.png')
-
